@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CrudApplication</string>
+    <string name="view_data">View Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="update_data">Update Data</string>
+    <string name="insert_new_data">Insert New Data</string>
+    <string name="enter_your_date_of_birth">Enter your date of birth</string>
+    <string name="enter_your_contact">Enter your contact</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="dob">DoB</string>
+    <string name="contact">Contact</string>
+    <string name="address">Address</string>
+    <string name="username">Username</string>
+    <string name="title_activity_recycler_view">activity_recycler_view</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="splash_screen_image">Splash Screen Image</string>
+    <string name="crud_application">Crud Application</string>
+</resources>
